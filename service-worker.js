@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/Chord-Generator-React/precache-manifest.533c2325be379adfab4a6e5c33f8bddd.js"
+  "/Random-Chord-Generator/precache-manifest.169475827e5f34078cc6cebbd96df2f2.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Chord-Generator-React/index.html", {
+workbox.routing.registerNavigationRoute("/Random-Chord-Generator/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

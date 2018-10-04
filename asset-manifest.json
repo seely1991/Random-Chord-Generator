@@ -1,14 +1,14 @@
 {
-  "main.css": "/Chord-Generator-React/static/css/main.19261478.chunk.css",
-  "main.js": "/Chord-Generator-React/static/js/main.b8c2d015.chunk.js",
-  "main.js.map": "/Chord-Generator-React/static/js/main.b8c2d015.chunk.js.map",
-  "static/js/1.ad4591f8.chunk.js": "/Chord-Generator-React/static/js/1.ad4591f8.chunk.js",
-  "static/js/1.ad4591f8.chunk.js.map": "/Chord-Generator-React/static/js/1.ad4591f8.chunk.js.map",
-  "runtime~main.js": "/Chord-Generator-React/static/js/runtime~main.91722015.js",
-  "runtime~main.js.map": "/Chord-Generator-React/static/js/runtime~main.91722015.js.map",
-  "static/media/logo.svg": "/Chord-Generator-React/static/media/logo.5d5d9eef.svg",
-  "static/css/main.19261478.chunk.css.map": "/Chord-Generator-React/static/css/main.19261478.chunk.css.map",
-  "index.html": "/Chord-Generator-React/index.html",
-  "precache-manifest.533c2325be379adfab4a6e5c33f8bddd.js": "/Chord-Generator-React/precache-manifest.533c2325be379adfab4a6e5c33f8bddd.js",
-  "service-worker.js": "/Chord-Generator-React/service-worker.js"
+  "main.css": "/Random-Chord-Generator/static/css/main.19261478.chunk.css",
+  "main.js": "/Random-Chord-Generator/static/js/main.71f82234.chunk.js",
+  "main.js.map": "/Random-Chord-Generator/static/js/main.71f82234.chunk.js.map",
+  "static/js/1.ad4591f8.chunk.js": "/Random-Chord-Generator/static/js/1.ad4591f8.chunk.js",
+  "static/js/1.ad4591f8.chunk.js.map": "/Random-Chord-Generator/static/js/1.ad4591f8.chunk.js.map",
+  "runtime~main.js": "/Random-Chord-Generator/static/js/runtime~main.7cb82672.js",
+  "runtime~main.js.map": "/Random-Chord-Generator/static/js/runtime~main.7cb82672.js.map",
+  "static/media/logo.svg": "/Random-Chord-Generator/static/media/logo.5d5d9eef.svg",
+  "static/css/main.19261478.chunk.css.map": "/Random-Chord-Generator/static/css/main.19261478.chunk.css.map",
+  "index.html": "/Random-Chord-Generator/index.html",
+  "precache-manifest.169475827e5f34078cc6cebbd96df2f2.js": "/Random-Chord-Generator/precache-manifest.169475827e5f34078cc6cebbd96df2f2.js",
+  "service-worker.js": "/Random-Chord-Generator/service-worker.js"
 }
