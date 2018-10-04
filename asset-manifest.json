@@ -1,14 +1,14 @@
 {
-  "main.css": "/static/css/main.19261478.chunk.css",
-  "main.js": "/static/js/main.a4a11a61.chunk.js",
-  "main.js.map": "/static/js/main.a4a11a61.chunk.js.map",
-  "static/js/1.ad4591f8.chunk.js": "/static/js/1.ad4591f8.chunk.js",
-  "static/js/1.ad4591f8.chunk.js.map": "/static/js/1.ad4591f8.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
-  "static/css/main.19261478.chunk.css.map": "/static/css/main.19261478.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.27bd695ba27f9af1f4e0e9515fecfae2.js": "/precache-manifest.27bd695ba27f9af1f4e0e9515fecfae2.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/Chord-Generator-React/static/css/main.19261478.chunk.css",
+  "main.js": "/Chord-Generator-React/static/js/main.b8c2d015.chunk.js",
+  "main.js.map": "/Chord-Generator-React/static/js/main.b8c2d015.chunk.js.map",
+  "static/js/1.ad4591f8.chunk.js": "/Chord-Generator-React/static/js/1.ad4591f8.chunk.js",
+  "static/js/1.ad4591f8.chunk.js.map": "/Chord-Generator-React/static/js/1.ad4591f8.chunk.js.map",
+  "runtime~main.js": "/Chord-Generator-React/static/js/runtime~main.91722015.js",
+  "runtime~main.js.map": "/Chord-Generator-React/static/js/runtime~main.91722015.js.map",
+  "static/media/logo.svg": "/Chord-Generator-React/static/media/logo.5d5d9eef.svg",
+  "static/css/main.19261478.chunk.css.map": "/Chord-Generator-React/static/css/main.19261478.chunk.css.map",
+  "index.html": "/Chord-Generator-React/index.html",
+  "precache-manifest.533c2325be379adfab4a6e5c33f8bddd.js": "/Chord-Generator-React/precache-manifest.533c2325be379adfab4a6e5c33f8bddd.js",
+  "service-worker.js": "/Chord-Generator-React/service-worker.js"
 }
