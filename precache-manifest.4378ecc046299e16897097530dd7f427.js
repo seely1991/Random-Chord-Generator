@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/Random-Chord-Generator/static/css/main.19261478.chunk.css"
   },
   {
-    "revision": "68817671f634db43935ea7aa80d9cdc1",
+    "revision": "187eaf376692dd5358593cfd6030f41c",
     "url": "/Random-Chord-Generator/index.html"
   }
 ];
